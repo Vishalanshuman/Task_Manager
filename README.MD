@@ -48,8 +48,8 @@ This is a FastAPI-based application that implements a basic to-do list with auth
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-repo/fastapi-todo-app.git
-   cd fastapi-todo-app
+   git clone https://github.com/Vishalanshuman/Task_Manager.git
+   cd Task_Manager
    ```
 
 2. **Create a Virtual Environment** (Optional but recommended):
